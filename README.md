@@ -1,13 +1,15 @@
-[README (5).md](https://github.com/user-attachments/files/32393617/README.5.md)
+[README.md](https://github.com/user-attachments/files/32393722/README.md)
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:7928CA,50:0070F3,75:00DFD8,100:FF0080&height=250&section=header&text=KOUSHIK%20VENKATESAN&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%C2%B7%20I%20code%20till%20the%20vibe%20ends&descAlignY=58&descAlign=50" width="100%"/>
+<img src="./banner.svg" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2200&pause=700&color=00DFD8,7928CA,FF0080&center=true&vCenter=true&multiline=true&width=700&height=100&lines=building+systems+that+actually+think+%F0%9F%A7%A0;shipping+first%2C+asking+forgiveness+later+%F0%9F%9A%80;git+commit+-m+%22it+works%2C+don%27t+touch+it%22;AI+%2B+backend+%2B+a+little+bit+of+chaos)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2200&pause=700&color=D4AF37,7928CA,00DFD8&center=true&vCenter=true&multiline=true&width=750&height=100&lines=building+systems+that+actually+think+%F0%9F%A7%A0;shipping+first%2C+asking+forgiveness+later+%F0%9F%9A%80;git+commit+-m+%22it+works%2C+don%27t+touch+it%22;AI+%2B+backend+%2B+a+little+bit+of+chaos)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=lord-koushik-001&label=Profile%20Views&color=7928CA&style=for-the-badge" />
+<img src="https://img.shields.io/badge/status-shipping-D4AF37?style=for-the-badge" />
+<img src="https://img.shields.io/badge/open%20to-collab-00DFD8?style=for-the-badge" />
 
 </div>
 
@@ -54,6 +56,16 @@ I don't build things because a roadmap told me to — I build because an idea wo
 
 <br/>
 
+## 🧭 currently
+
+- 🔭 Building **LedgerLock** — a multi-tenant SaaS with tamper-evident audit logging
+- 🧪 Exploring blockchain-backed notarization as a tenant-facing feature
+- 🌱 Going deeper into agentic AI systems and secure backend design
+- 🤝 Open to collaborating on startup ideas, AI tooling, and anything "interesting enough to lose sleep over"
+- 📫 Reach me on Instagram: **@lord_koushik_001**
+
+<br/>
+
 ## 🛠 tech arsenal
 
 <div align="center">
@@ -90,9 +102,9 @@ I don't build things because a roadmap told me to — I build because an idea wo
 
 <br/><br/>
 
-**Tools**
+**Code Management & Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma,notion&theme=dark" />
 
 *(placeholder lineup based on your repos — swap anything that doesn't match your real stack)*
 
@@ -129,12 +141,12 @@ A platform connecting underserved communities across South India to free medical
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lord-koushik-001&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=FF0080&icon_color=00DFD8&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lord-koushik-001&theme=synthwave&hide_border=true&background=0d1117&stroke=FF0080&ring=00DFD8&fire=FF0080" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lord-koushik-001&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=00DFD8&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lord-koushik-001&theme=synthwave&hide_border=true&background=0d1117&stroke=D4AF37&ring=00DFD8&fire=D4AF37" width="48%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lord-koushik-001&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=FF0080&text_color=c9d1d9" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lord-koushik-001&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9" width="45%"/>
 
 <br/><br/>
 
@@ -152,9 +164,17 @@ A platform connecting underserved communities across South India to free medical
 <img src="https://raw.githubusercontent.com/lord-koushik-001/lord-koushik-001/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 <!--END_SECTION:activity-->
 
-*(this animated snake eats your contribution graph — needs a one-time GitHub Action setup, instructions below)*
+*(this animated snake eats your contribution graph — needs a one-time GitHub Action setup)*
 
 </div>
+
+<br/>
+
+## 🎯 what's next
+
+- Ship LedgerLock's blockchain notarization layer end-to-end
+- Get more hands-on with production-grade agentic AI systems
+- Keep the bug count under 127
 
 <br/>
 
@@ -170,6 +190,6 @@ A platform connecting underserved communities across South India to free medical
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,25:7928CA,50:0070F3,75:00DFD8,100:FF0080&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5c1a4a,50:1a0b3d,100:0b0221&height=120&section=footer" width="100%"/>
 
 </div>
